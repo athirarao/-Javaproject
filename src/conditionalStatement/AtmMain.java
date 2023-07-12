@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class AtmMain {
 
 	public static void main(String[] args) {
-		
+		// New Account
 		Account athiraAccount = new Account();
 		
 		Scanner sc = new Scanner(System.in);
